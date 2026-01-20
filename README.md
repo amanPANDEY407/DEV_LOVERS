@@ -21,3 +21,5 @@ This agent automates train ticket booking on the ixigo Android app using real-de
 pip install -r requirements.txt
 droidrun devices
 python main.py
+
+Cofiguration is kept inline for clarity
