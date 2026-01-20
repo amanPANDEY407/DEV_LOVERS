@@ -23,3 +23,6 @@ droidrun devices
 python main.py
 
 Cofiguration is kept inline for clarity
+
+#Youtube video link is provided below
+https://youtu.be/I3d3Tz1Zwrk
